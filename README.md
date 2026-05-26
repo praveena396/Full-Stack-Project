@@ -23,7 +23,7 @@ MedFlow AI is an AI-powered healthcare platform designed to automate hospital wo
 - Tailwind CSS  
 
 ### Backend
-- Node.js  
+- Node.js  // or Nest.js
 - Express.js  
 
 ### AI Layer
